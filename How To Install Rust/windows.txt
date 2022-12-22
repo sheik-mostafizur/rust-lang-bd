@@ -1,0 +1,11 @@
+1. Go to https://www.rust-lang.org/
+2. Install (https://www.rust-lang.org/tools/install)
+3. DOWNLOAD RUSTUP-INIT.EXE (64-BIT)
+4. Go to https://visualstudio.microsoft.com/visual-cpp-build-tools/
+5. Download Build Tools Click and Download it (Microsoft C++ Build Tools).
+6. Install Microsoft C++ Build Tools.
+7. Check- Desktop development with C++ then install (it's take long time)
+8. If it is completed 7 step, than click and install 3 step (RUSTUP-INIT.EXE (64-BIT))
+9. When click RUSTUP-INIT.EXE (64-BIT) auto open terminal and type 1.
+10. Go to terminal check version: rustc --version.
+11. If it see version so it is installed done.

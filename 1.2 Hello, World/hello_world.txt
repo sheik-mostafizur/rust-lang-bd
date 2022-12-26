@@ -1,0 +1,21 @@
+How to create the first Rust program?
+
+1. Go to any Folder or Directory and open your terminal here.
+2. Write this command on your terminal.
+    mkdir ~/projects
+    cd ~/projects
+    mkdir hello_world
+    cd hello_world
+3. Now create a file main.rs on your hello_world directory.
+4. Open main.rs file and write this code:
+    fn main() {
+        println!("Hello, world!");
+    }
+5. Save it and go to terminal then run this command
+    rustc main.rs
+    ./main
+6. Now if you show-> Hello, world!
+Congratulation you are writing your first Rust program.
+
+
+see more: https://doc.rust-lang.org/book/ch01-02-hello-world.html

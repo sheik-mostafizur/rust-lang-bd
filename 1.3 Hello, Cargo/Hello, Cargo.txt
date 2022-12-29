@@ -1,0 +1,17 @@
+How to create the first Cargo "Hello World!" program?
+
+1. First of all, check the cargo. How to check cargo is installed? Open your terminal and type: cargo --version
+2. If you show the version then congratulation.
+3. Type in your terminal: cargo new hello_cargo
+4. cd hello_cargo
+5. Now open src/main.rs and take a look:
+   fn main() {
+       println!("Hello, world!");
+   }
+6. Type in your terminal (optional): cargo build
+7. Type in your terminal: cargo run
+   Now you could show this line:
+    Hello, world!
+    
+    
+See more: https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
